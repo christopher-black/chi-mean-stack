@@ -3,8 +3,8 @@ Exercise building everything up from scratch.
 
 **In Terminal**
 
-1. `mdkir chi-mean`
-2. `cd chi-mean`
+1. Fork the repository
+2. `cd chi-mean-stack`
 3. `npm init`
 4. `npm install express body-parser angular mongoose bootstrap grunt grunt-contrib-copy grunt-contrib-uglify grunt-contrib-watch --save`
 
